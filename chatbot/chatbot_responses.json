@@ -1,0 +1,22 @@
+[
+  {
+    "keywords": ["événement", "events"],
+    "response": "Vous pouvez consulter tous les événements disponibles sur la page d’accueil."
+  },
+  {
+    "keywords": ["inscription", "inscrire"],
+    "response": "Pour vous inscrire à un événement, cliquez sur Détails puis Inscription."
+  },
+  {
+    "keywords": ["date", "quand" ,"comment voir les dates"],
+    "response": "Les dates des événements sont affichées sur chaque carte événement."
+  },
+  {
+    "keywords": ["site", "info"],
+    "response": "Ce site permet de gérer et de s’inscrire à des événements facilement."
+  },
+  {
+    "keywords": ["où", "lieu" ,"localisation"],
+    "response": "Les localisations des événements sont affichées sur la carte événement. Vous pouvez suivre vos chemins"
+  }
+]

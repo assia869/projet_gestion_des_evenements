@@ -1,0 +1,14 @@
+/* /gestion-evenements/assets/css/calendar.css */
+
+#calendar .fc-toolbar-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+#calendar .fc {
+  --fc-border-color: rgba(0,0,0,.12);
+}
+
+#calendar .fc-daygrid-event {
+  cursor: pointer;
+}
